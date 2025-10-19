@@ -14,7 +14,7 @@
 - 🌱 Continuously learning and upgrading my skills in backend and full-stack development  
 - 🤝 Looking to collaborate on **open-source Django or Python projects**  
 - 💬 Ask me about anything related to **Python, Django, or web development**  
-- ⚡ Fun fact: I love debugging more than breaking things 😄  
+- ⚽ **Fun Fact:** When I’m not writing code, I’m either chasing goals on the football field or exploring something new to learn!
 
 ---
 
@@ -41,6 +41,9 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
@@ -66,4 +69,3 @@
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=AnandhuAM&label=Profile%20views&color=0e75b6&style=flat)
-
