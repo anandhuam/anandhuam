@@ -66,10 +66,10 @@
   <a href="https://github.com/AnandhuAM" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/anandhuam" target="_blank">
+  <a href="[https://www.linkedin.com/in/anandhuam](https://www.linkedin.com/in/anandhu-am-90175a2bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/anandhu__am" target="_blank">
+  <a href="[https://www.instagram.com/anandhu__am](https://www.instagram.com/_._the_phenomenon_._?igsh=a3RlNG9ocnlldmZy)" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
