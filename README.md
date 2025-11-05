@@ -45,19 +45,9 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 - 🔗 [Portfolio Website](https://github.com/AnandhuAM/Portfolio) — Personal portfolio built with Django & TailwindCSS  
-- 🛒 [E-commerce Platform](https://github.com/AnandhuAM/Ecommerce-Django) — Full-featured Django web app with authentication, cart, and admin panel  
-- 📚 [Blog App](https://github.com/AnandhuAM/Django-Blog) — A clean blog application with CRUD and user authentication  
-
----
-
-## 🌱 Currently Learning
-
-- Django REST Framework (DRF)  
-- Docker & CI/CD Pipelines  
-- React for modern frontend integration  
 
 ---
 
@@ -73,19 +63,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnandhuAM&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
-</p>
 
----
-
-## 📈 GitHub Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnandhuAM&theme=radical" alt="GitHub Activity Graph" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
