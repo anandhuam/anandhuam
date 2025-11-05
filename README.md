@@ -47,7 +47,7 @@
 
 ## 🚀 Featured Project
 
-- 🔗 [Portfolio Website](https://github.com/AnandhuAM/Portfolio) — Personal portfolio built with Django & TailwindCSS  
+- 🔗 [Portfolio Website](https://github.com/AnandhuAM/Portfolio) — Personal portfolio 
 
 ---
 
