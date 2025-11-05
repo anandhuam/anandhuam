@@ -45,19 +45,47 @@
 
 ---
 
+## 🚀 Featured Projects
+
+- 🔗 [Portfolio Website](https://github.com/AnandhuAM/Portfolio) — Personal portfolio built with Django & TailwindCSS  
+- 🛒 [E-commerce Platform](https://github.com/AnandhuAM/Ecommerce-Django) — Full-featured Django web app with authentication, cart, and admin panel  
+- 📚 [Blog App](https://github.com/AnandhuAM/Django-Blog) — A clean blog application with CRUD and user authentication  
+
+---
+
+## 🌱 Currently Learning
+
+- Django REST Framework (DRF)  
+- Docker & CI/CD Pipelines  
+- React for modern frontend integration  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AnandhuAM&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnandhuAM&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=AnandhuAM&theme=radical" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandhuAM&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnandhuAM&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+</p>
 
+---
+
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnandhuAM&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
+---
 
 ## 🌐 Connect with Me
 
@@ -68,13 +96,18 @@
   <a href="https://github.com/AnandhuAM" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://www.linkedin.com/in/anandhu-am-90175a2bb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="https://www.linkedin.com/in/anandhu-am-90175a2bb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/_._the_phenomenon_._?igsh=a3RlNG9ocnlldmZy" target="_blank">
+  <a href="https://www.instagram.com/_._the_phenomenon_._" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+
+---
+
+## 💬 Quote
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
 
 ---
 
