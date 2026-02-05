@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anandhu A M</h1>
-<h3 align="center">💻 Python / Django Developer | Crafting Smart, Scalable Web Applications</h3>
+<h3 align="center">💻 Python / Django Developer | Building Smart & Scalable Web Applications</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Python+Full+Stack+Developer;Django+Enthusiast;Open+Source+Contributor;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
@@ -9,11 +9,11 @@
 
 ## 🧑‍💻 About Me
 
-- 🚀 Passionate **Python Full Stack Developer** with 1+ year of experience building dynamic and scalable web apps using **Django**  
+- 🚀 Passionate **Python Full Stack Developer** with 1+ year experience in building dynamic web applications using **Django**  
 - 💼 Currently working as a **Django Developer at Infodawn**, Pathanamthitta  
-- 🌱 Continuously expanding my skills in backend and full-stack development  
-- 🤝 Open to collaborating on **Python / Django open-source projects**  
-- ⚽ **Fun Fact:** When I’m not coding, I’m probably playing football or exploring new tech ideas!
+- 🌱 Always learning and exploring new technologies in **backend & full-stack development**  
+- 🤝 Open to collaboration on **Python/Django open-source projects**  
+- ⚽ **Fun Fact:** When I’m not coding, you’ll find me playing football or exploring new tech ideas  
 
 ---
 
@@ -45,9 +45,10 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
-- 🔗 [Portfolio Website](https://github.com/AnandhuAM/Portfolio) — Personal portfolio 
+- 🔗 [Portfolio Website](https://github.com/AnandhuAM/Portfolio) — Personal portfolio to showcase projects and skills  
+- 🔗 [Valentine’s Day Surprise](https://github.com/AnandhuAM/Be-My-Valentine) — A cute, interactive website made for girlfriend ❤️  
 
 ---
 
@@ -62,8 +63,6 @@
 </p>
 
 ---
-
-
 
 ## 🌐 Connect with Me
 
@@ -86,8 +85,6 @@
 
 ## 💬 Quote
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnandhuAM&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
