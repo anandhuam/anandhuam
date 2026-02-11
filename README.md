@@ -48,7 +48,7 @@
 ## 🚀 Featured Projects
 
 - 🔗 [Portfolio Website](https://github.com/AnandhuAM/Portfolio) — Personal portfolio to showcase projects and skills  
-- 🔗 [Valentine’s Day Surprise](https://github.com/AnandhuAM/Be-My-Valentine) — A cute, interactive website made for girlfriend ❤️  
+ 
 
 ---
 
