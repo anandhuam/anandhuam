@@ -1,19 +1,15 @@
 <h1 align="center">Hi 👋, I'm Anandhu A M</h1>
 <h3 align="center">💻 Python Full Stack Developer | Django Specialist | Building Scalable Web Solutions</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Python+Full+Stack+Developer;Django+Backend+Specialist;Clean+Code+Advocate;Open+Source+Learner+🚀" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🚀 About Me
 
 - 🔥 Passionate **Python Full Stack Developer** with 1+ year of hands-on experience  
 - 💼 Currently working as a **Django Developer at Infodawn, Pathanamthitta**  
-- 🧠 Strong focus on writing **clean, scalable, and maintainable code**  
+- 🧠 Strong focus on writing clean, scalable, and maintainable code  
 - 🌱 Continuously learning modern backend & full-stack technologies  
-- 🤝 Open to collaborating on **Python/Django projects & innovative ideas**  
+- 🤝 Open to collaborating on Python/Django projects & innovative ideas  
 - ⚽ Fun Fact: I love football and exploring new tech trends  
 
 ---
@@ -50,7 +46,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -77,7 +72,7 @@
 
 ## 📫 Contact Me
 
-📧 **Email:** anandhuam.dev@gmail.com  
+📧 **Email:** anandhu1102002@gmail.com  
 
 ---
 
